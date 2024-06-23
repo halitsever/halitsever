@@ -1,5 +1,9 @@
-<a align="center" href="https://www.halit.org/">
-<img src="https://halitsever-api.vercel.app/api/hello">
+<p align="center">
+<a href="https://www.halit.org/">
+<img  src="https://halitsever-api.vercel.app/api/hello">
 </a>
+</p>
 
-<a align="center" href="https://www.halit.org/"><img src="https://halitsever-api.vercel.app/api/latest-repo"></a>
+<p align="center">
+<a href="https://www.halit.org/"><img src="https://halitsever-api.vercel.app/api/latest-repo"></a>
+</p>
