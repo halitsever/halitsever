@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.halit.org/">
+<a href="#">
 <img  src="https://halitsever-api.vercel.app/api/hello">
 </a>
 </p>
